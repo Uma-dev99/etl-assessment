@@ -19,6 +19,5 @@ aggregation
 3. Create a virtual environment (optional but recommended).
 4. Install dependencies:
    ```bash
-   pip install -r requirements.txt```
-
+   pip install -r requirements.txt
    
